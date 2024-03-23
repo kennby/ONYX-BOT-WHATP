@@ -1,5 +1,5 @@
 { 
-    "name": "dylux-bot",
+    "name": "ONYX",
     "version": "3.0.0",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/FG98F/dylux-fg",
+    "homepage": "",
     "author": {
-        "name": "FG98"
+        "name": "KENN"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/FG98F/dylux-bot.git"
+        "url": ""
     },
     "bugs": {
-        "url": "https://github.com/FG98F/dylux-bot/issues"
+        "url": ""
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
@@ -92,4 +92,4 @@
          "wa-sticker-formatter": "^4.3.2",
         "moment-timezone": "^0.5.37"
     }
-}
+    }
