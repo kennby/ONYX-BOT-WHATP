@@ -1,4 +1,3 @@
- 
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 import './config.js'; 
 import { createRequire } from "module"; // Bring in the ability to create the 'require' method
@@ -93,7 +92,7 @@ const connectionOptions = {
 	    version,
         printQRInTerminal: true,
         auth: state,
-        browser: ['dylux-bot', 'Safari', '3.1.0'], 
+        browser: ['ONYX', 'Safari', '3.1.0'], 
 	      patchMessageBeforeSending: (message) => {
                 const requiresPatch = !!(
                     message.buttonsMessage 
