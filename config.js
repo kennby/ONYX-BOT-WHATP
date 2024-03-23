@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['59172945992', 'FG98', true],
-  ['5492622271736'], 
-  ['5492622271736'] 
+  ['51907364682', 'KENN', true],
+  [''], 
+  [''] 
 ] //Numeros de owner 
 
-global.mods = ['573125484672'] 
-global.prems = ['50489079501', '5219631769130', '573125484672']
+global.mods = [''] 
+global.prems = ['', '', '']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
@@ -25,16 +25,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'DyLux┃ᴮᴼᵀ' 
-global.author = '@fg98' 
-global.fgig = '▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff\n' 
-global.dygp = 'https://chat.whatsapp.com/BESBo5xjvIZE4YVvth6Yzr'
-global.fgsc = 'https://github.com/FG98F/dylux-fg' 
-global.fgyt = 'https://youtube.com/fg98f'
-global.fgpyp = 'https://paypal.me/fg98f'
-global.fglog = 'https://i.imgur.com/Owmb93c.png' 
+global.packname = 'ONYX' 
+global.author = 'KENN' 
+global.fgig = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' 
+global.dygp = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v'
+global.fgsc = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' 
+global.fgyt = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v'
+global.fgpyp = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v'
+global.fglog = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' 
 
-global.wait = '*⌛ _Cargando..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '⌛'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
